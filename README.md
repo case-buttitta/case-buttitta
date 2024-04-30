@@ -1,4 +1,4 @@
-### Hi there 👋
+### Je suis étudiant
 
 <!--
 **case-buttitta/case-buttitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
